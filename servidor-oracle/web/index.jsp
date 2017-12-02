@@ -17,7 +17,7 @@
         <form action="autenticar.php" method="post">
             <input type="text" name="login" placeholder="tu usuario">
             <input type="password" name="password" placeholder="tu password">
-            <input type="submit" value="autenticarse">
+            <input class="btn btn-danger" type="submit" value="autenticarse">
         </form>
     </body>
 </html>
