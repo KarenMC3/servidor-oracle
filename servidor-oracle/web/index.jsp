@@ -10,6 +10,7 @@
     <head>
         <meta charset=UTF-8">
         <meta name="viewport"  content="width=device-width, initial-scale">
+        <link rel="stylesheet" href="css/bootstrap.css">
     </head>
     <body>
         <h1>Proyecto de base de datos 2</h1>
