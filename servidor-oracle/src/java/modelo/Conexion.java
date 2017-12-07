@@ -8,6 +8,7 @@ package modelo;
 import java.sql.*;
 public class Conexion {
     public static Connection conectarse(String login, String password)
+            throws ClassNotFoundException, SQLException
     {
         Connection con=null;
         try{
